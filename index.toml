@@ -4557,10 +4557,6 @@ file = "config/utilitarian-common.toml"
 hash = "376fc98563b324a49dc5ef07b441ac24b0461ad8f6402c4b8b9029e8e36f77c2"
 
 [[files]]
-file = "config/waterworks-server.toml"
-hash = "d7697fdb8d2984e1da2218631bbd2b1b5a7bdf8790a8a91b525a8450c472f9d7"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "9143649c23ff2f0d1641e2ee0fda94c6a0726a138e2483fe2449624e52c740be"
 
@@ -16266,11 +16262,6 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "a30bd487a41b94bc42ab4572f469fc9997d80131f1ea6f3c95d7ade9514626eb"
-metafile = true
-
-[[files]]
-file = "mods/waterworks.pw.toml"
-hash = "ac4dcb59533ee3418ea286b34881ecb15766ed5839149139b795f7204755d46c"
 metafile = true
 
 [[files]]
