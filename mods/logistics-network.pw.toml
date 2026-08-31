@@ -1,0 +1,13 @@
+name = "Logistics Network"
+filename = "logisticsnetworks-1.21.1-1.13.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52d575d8467d79580d3298bb9c5056ab8ad1fddc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8706590
+project-id = 1448257

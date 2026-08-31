@@ -1,0 +1,13 @@
+name = "LivingThings"
+filename = "livingthings-neoforge-1.21.1-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42f44e2dddf964ee7fb9a0b303dcd75b1f6ee732"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8724308
+project-id = 397252
