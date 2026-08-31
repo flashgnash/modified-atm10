@@ -1,0 +1,13 @@
+name = "Create: Hostile Skies"
+filename = "hostile_skies-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/78hqRjWm/versions/pTrBnn4H/hostile_skies-0.2.0.jar"
+hash-format = "sha512"
+hash = "7ff70078e61eb2f31df7a1f062ac498b2b544c9860b75f583ebfa36140b2bbf8eb55b75c213e4e8013001fef5343faf7992c714f419d7011a4c58bf2b2a9357d"
+
+[update]
+[update.modrinth]
+mod-id = "78hqRjWm"
+version = "pTrBnn4H"

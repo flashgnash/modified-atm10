@@ -1,0 +1,13 @@
+name = "SPR Additions"
+filename = "spr_addition-1.21.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tHjYRuN1/versions/DxvfObdh/spr_addition-1.21.1-0.1.1.jar"
+hash-format = "sha512"
+hash = "f000ec687a70e08a2ac02604c8beb57329ee935d307435f1486f37000ec798488675d60c1af0238c54f7bc956f12723da2f861f49462774cee1d4d7d51c0a768"
+
+[update]
+[update.modrinth]
+mod-id = "tHjYRuN1"
+version = "DxvfObdh"
