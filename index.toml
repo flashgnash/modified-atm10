@@ -4465,10 +4465,6 @@ file = "config/reliquary-common.toml"
 hash = "3201ba0b1be22a0909fad50d6da90a1e5d0a795cec3eb885bc0c9314130e1b57"
 
 [[files]]
-file = "config/sable_player_ragdoll-server.toml"
-hash = "9051cfac0ce8e56d841081f257c15c64b06edb375d5f4d1d720d9c41639ea805"
-
-[[files]]
 file = "config/sawmill-common.toml"
 hash = "ce6b015ff03278c387114733a543c7fc47bcaa3ce5e76d907b975cab44ae00f5"
 
