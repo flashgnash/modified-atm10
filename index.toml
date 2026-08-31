@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "82edb5c45b3cb58e24c38d27e1ce2bb69341e2b33997c06fbf20ede083c041a0"
+
+[[files]]
 file = "CLAUDE.md"
-hash = "15be39b419a9a6d50381cb7210a0c86a55c3b9c2839c5ff9990c893d84788c26"
+hash = "09f9dfc2b7e970ffceec536a0737b39b8fafb2cc948a42e247fab7693cf60643"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
@@ -87,6 +91,10 @@ hash = "539976a2e140c3cb03a6fb92c83b672b7dcf4fa402b0a552206796aca6e8fb04"
 [[files]]
 file = "config/ae2-common.toml"
 hash = "2815e8f0b7c8d9bf08d68b144e0b6b0777494ff421d68aac5c268bd1576b7733"
+
+[[files]]
+file = "config/aeronauticsdiscovery-common.toml"
+hash = "a641bb7b489c83874ae8708922ea223e33b6c327e840ab5391b2dba154121df9"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -4027,6 +4035,10 @@ hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
 [[files]]
 file = "config/gravestone-server.toml"
 hash = "d29dcdd89477dd491c55189d79b69abec433f608e1303ef4701f2846fc3d1f08"
+
+[[files]]
+file = "config/hostile_skies-common.toml"
+hash = "877110f278f1e358bf07c684339bc577db6d409d1f4d4400bf75bf110534893c"
 
 [[files]]
 file = "config/hyperbox-common.toml"
@@ -14448,11 +14460,6 @@ metafile = true
 [[files]]
 file = "mods/create-simulated-thrusters.pw.toml"
 hash = "30df190bd6a3704ca2a06e196ec17fd9290df8e7e978a30bb7f2cfa706aa4801"
-metafile = true
-
-[[files]]
-file = "mods/create-twistermill.pw.toml"
-hash = "e359196312bdfcab0cd49c7ae8dc7e1d07a035ec28569cf270fb9792d1e9f18f"
 metafile = true
 
 [[files]]
