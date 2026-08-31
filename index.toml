@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CLAUDE.md"
-hash = "15be39b419a9a6d50381cb7210a0c86a55c3b9c2839c5ff9990c893d84788c26"
-
-[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
@@ -87,6 +83,10 @@ hash = "539976a2e140c3cb03a6fb92c83b672b7dcf4fa402b0a552206796aca6e8fb04"
 [[files]]
 file = "config/ae2-common.toml"
 hash = "2815e8f0b7c8d9bf08d68b144e0b6b0777494ff421d68aac5c268bd1576b7733"
+
+[[files]]
+file = "config/aeronauticsdiscovery-common.toml"
+hash = "a641bb7b489c83874ae8708922ea223e33b6c327e840ab5391b2dba154121df9"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -411,10 +411,6 @@ hash = "cc5cff78b1f796c00031a8635ac0604012714588b1340f5a1c5ce613150131de"
 [[files]]
 file = "config/framedblocks-client.toml"
 hash = "1b0e96a995d9ede7a9ff4b6d2cd3f99817c50313a0de44cb97565b55a8a61e84"
-
-[[files]]
-file = "config/ftbquests/quests/README.md"
-hash = "d0e63efe1171561178387eea0c21960708ea4dd63e20d90c77b1c9697191b63f"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -4029,6 +4025,10 @@ file = "config/gravestone-server.toml"
 hash = "d29dcdd89477dd491c55189d79b69abec433f608e1303ef4701f2846fc3d1f08"
 
 [[files]]
+file = "config/hostile_skies-common.toml"
+hash = "877110f278f1e358bf07c684339bc577db6d409d1f4d4400bf75bf110534893c"
+
+[[files]]
 file = "config/hyperbox-common.toml"
 hash = "44d1eb2e27746e8b73cd61bb527de393bc7fc54457919472a811c09c893c6ee0"
 
@@ -4575,10 +4575,6 @@ hash = "b97e46a2d4bf6f2a01c16a9669727ccb0d90b7537dad230b778d1693a3a66e08"
 [[files]]
 file = "defaultconfigs/justdirethings-common.toml"
 hash = "09e84180732751b177b084b893cb0ffbd237111ebe2a092ad49a13c854771877"
-
-[[files]]
-file = "kubejs/README.md"
-hash = "23b45d6c3c70309c53e50044884f9de0b6538a8e442f4be97c6654db7b6f67a9"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -16432,7 +16428,3 @@ metafile = true
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
 hash = "bf0ecd1d769e20548114371a07bd44094a2a9de5d47435d65b595fc0697c10c8"
 metafile = true
-
-[[files]]
-file = "tools/set-sides.sh"
-hash = "758547846dd5ef0f36d2d875c2777db9e40e005744c1e7180cf2cce22748f88e"
