@@ -86,7 +86,7 @@ hash = "2815e8f0b7c8d9bf08d68b144e0b6b0777494ff421d68aac5c268bd1576b7733"
 
 [[files]]
 file = "config/aeronauticsdiscovery-common.toml"
-hash = "a641bb7b489c83874ae8708922ea223e33b6c327e840ab5391b2dba154121df9"
+hash = "d8deb0abd8971c0a6c6ca3b14955fb914a0c4b70347bb834b6a0dbf36cc2a8fc"
 
 [[files]]
 file = "config/aether-client.toml"
@@ -14394,11 +14394,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
-metafile = true
-
-[[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "9bd02825b814560982b069fae1f560b047f6a06a82a92f01bd699fc4db6c66de"
 metafile = true
 
 [[files]]

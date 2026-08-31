@@ -37,7 +37,7 @@
 	#Minimum impact velocity (m/s) along the contact normal to fire a SubLevelImpactEvent. Set to 0 to fire on every collision.
 	# Default: 5.0
 	# Range: 0.0 ~ 1000.0
-	strengthThreshold = 5.0
+	strengthThreshold = 1000.0
 
 	[impact.explosion]
 		#Whether explosive pins destroy blocks on detonation.
