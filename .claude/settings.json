@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(packwiz-tui:*)",
+      "Bash(packwiz:*)",
+      "Bash(mc-logs:*)"
+    ]
+  }
+}
