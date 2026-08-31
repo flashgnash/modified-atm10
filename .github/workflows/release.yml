@@ -69,7 +69,7 @@ jobs:
             echo "4. **Server files** — ready-to-run server"
           } > .packwiz-tui/release-notes.md
           gh release delete latest --yes 2>/dev/null || true
-          gh release create latest --prerelease --title "Latest build (rolling)" \
+          gh release create latest --title "Latest build (rolling)" \
             --notes-file .packwiz-tui/release-notes.md \
             .packwiz-tui/ordered/*
 
