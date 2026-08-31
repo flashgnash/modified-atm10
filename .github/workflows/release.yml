@@ -24,6 +24,12 @@ jobs:
           go-version: stable
 
       - name: Install packwiz + packwiz-tui
+        env:
+          # Fetch packwiz-tui straight from GitHub — the Go module proxy
+          # caches @master for a while, which breaks builds right after a
+          # tool update.
+          GOPROXY: direct
+          GOSUMDB: off
         run: |
           go install github.com/packwiz/packwiz@latest
           go install github.com/flashgnash/packwiz-tui@master
