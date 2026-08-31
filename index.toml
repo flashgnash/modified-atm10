@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".claude/scheduled_tasks.lock"
+hash = "98893ced43ae5697f93e206d22d46dea2c2ead3cc4d42718a28fb70cf313d6e0"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
@@ -14444,11 +14448,6 @@ metafile = true
 [[files]]
 file = "mods/create-simulated-thrusters.pw.toml"
 hash = "30df190bd6a3704ca2a06e196ec17fd9290df8e7e978a30bb7f2cfa706aa4801"
-metafile = true
-
-[[files]]
-file = "mods/create-twistermill.pw.toml"
-hash = "e359196312bdfcab0cd49c7ae8dc7e1d07a035ec28569cf270fb9792d1e9f18f"
 metafile = true
 
 [[files]]
