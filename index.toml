@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CLAUDE.md"
+hash = "15be39b419a9a6d50381cb7210a0c86a55c3b9c2839c5ff9990c893d84788c26"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
@@ -13838,6 +13842,11 @@ hash = "ea80afccea478751cca0ba07f4a83005b51bd080840766597ec692612ed85e04"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-calibrated.pw.toml"
+hash = "69a635e5a98377526c153a40ef32c26a3c002bb892379970c2acbfc1fe852beb"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
 metafile = true
@@ -13990,6 +13999,11 @@ metafile = true
 [[files]]
 file = "mods/ars-polymorphia.pw.toml"
 hash = "0b8a0117ded523876d15e861b537740bd385232185739dbb3f26cd41a3504a18"
+metafile = true
+
+[[files]]
+file = "mods/ars-sable.pw.toml"
+hash = "6f2831389ddba8705056285acea3c092eb2a80f6026ea9692f9b12ff3e1c9e03"
 metafile = true
 
 [[files]]
@@ -14163,12 +14177,17 @@ hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1.21.1-forge-1.120.2.jar"
 hash = "e8651fe24b384e925e563c9ad077644744474e2e7c0adb8e6d5b4757598dce9f"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "76a175f859f5d051ffee34c3834925c637b762cc938c06d0655e378984e758f5"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -14203,7 +14222,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -14282,6 +14301,11 @@ hash = "f22871063cbfb6a6220cb82fa4a8b92e7659cc5c9f30987e8eb001fbb2446970"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "5be4acb05e4557ce7c17513fcaa8a0b980b5fce2efef5f10ed8862359cdc1c16"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -14327,8 +14351,73 @@ hash = "6457e8702c7c3d603e1e35252bf2388db4ec44c875209af3c4364a79f4c1709c"
 metafile = true
 
 [[files]]
+file = "mods/create-additions-sable-compat.pw.toml"
+hash = "db7aed530208f0aedf516a6b616b9034941059354e93f75e5e8e1d57381f3312"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-discovery.pw.toml"
+hash = "b56a93f81b38b7b40ace56979d2730b2a6e117a2a684e08af91337ea9bed01fa"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
+hash = "ee6117ffe4f55e4d01eae338487ec52295ab6703d82809ce56fd76c8c1e4e3a9"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-mekanism-weight.pw.toml"
+hash = "84c2858400dfa8f6317c132082b8b12fa4f362de00a24c1ee30715a82e77fe0b"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-rechiseled-compatibility.pw.toml"
+hash = "3d69bef37e924253e746b3496adbff38495f92b994e460814dedd098ef07e250"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "783a2f396c1420da031f90b14a60b7020bd97d32c76a1bade1980046aa812aba"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "c7bedfedb5f2232fd85040d6ef5287e021955a4bfe284735e5d9ccb410619db6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+metafile = true
+
+[[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
+metafile = true
+
+[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "9bd02825b814560982b069fae1f560b047f6a06a82a92f01bd699fc4db6c66de"
+metafile = true
+
+[[files]]
+file = "mods/create-autonavigation.pw.toml"
+hash = "63566ac022c7d8cd5cbbdb03e71c6e76f8ff41ac5ab2b0079d3616c75914c068"
+metafile = true
+
+[[files]]
+file = "mods/create-avionics.pw.toml"
+hash = "09c4a6ed0968780cedfb90be7d72d9e5b7fe179b3fc289f1427dbba0a5ea90fb"
+metafile = true
+
+[[files]]
+file = "mods/create-crafts-additions-and-aeronautics-compat.pw.toml"
+hash = "a61af43db4bdd4f0d3567f50e33203abbf1d9e1f3c8c90b5c42dcd8b0686ca94"
 metafile = true
 
 [[files]]
@@ -14342,13 +14431,38 @@ hash = "3081454bb18ab118d7b449a10bf1350d0761ab6892cd88b2ec59b4eb25e375f1"
 metafile = true
 
 [[files]]
+file = "mods/create-hangars.pw.toml"
+hash = "49d6ae56b14e2c737c69fdbd2943fa6047fbc63ff5089ff72504f71576a00f81"
+metafile = true
+
+[[files]]
+file = "mods/create-hostile-skies.pw.toml"
+hash = "09532871563e2e27e02d37f63deae26e55ace6e74d4f6bb45f14d1f0f2838e47"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
+metafile = true
+
+[[files]]
+file = "mods/create-simulated-thrusters.pw.toml"
+hash = "30df190bd6a3704ca2a06e196ec17fd9290df8e7e978a30bb7f2cfa706aa4801"
+metafile = true
+
+[[files]]
+file = "mods/create-twistermill.pw.toml"
+hash = "e359196312bdfcab0cd49c7ae8dc7e1d07a035ec28569cf270fb9792d1e9f18f"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c7f69b2de149dd01dd6b7a73b45c19d246d583c691a74c1e3ff0b80909481a9a"
+hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
@@ -14439,6 +14553,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "a0a08557c2985af8f6c92adef8b654c8f8b239277c4bb8eb94810b22109cc351"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-sable.pw.toml"
+hash = "3f0e8fe0d0f535d1fcdbb24fe3887aa7a982a4e1fdaea31a7e5b0bfd09ec0b44"
 metafile = true
 
 [[files]]
@@ -14632,6 +14751,10 @@ hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
 metafile = true
 
 [[files]]
+file = "mods/fluxnautics-1.0.0-beta.3-sable205patch.jar"
+hash = "09b38f37dcbb33e0f215712785a931e0e9e4be755599f2f8d49ceaa355c16186"
+
+[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "d7343664280e8b3d1c96f9a6726caf2d25376fd7e378fdfc47a0be9bccde3a3c"
 metafile = true
@@ -14714,6 +14837,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "01290866d0c405f7b637961b71b13f36124c897e1f4fc748951a3eaa671dd082"
+metafile = true
+
+[[files]]
+file = "mods/ftbchunksaerospace.pw.toml"
+hash = "2001df493febbb65b823cc435da6707d2883592024283a546a3b3642109a7dd4"
 metafile = true
 
 [[files]]
@@ -14942,6 +15070,11 @@ hash = "39204787792da3c753c868898f8354d4aa8c73897cda78c178af1d9b2e073abb"
 metafile = true
 
 [[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "673bc79f4d42c7de3343a8e2933a3fbd355ba34e8a7ca06ffdae659bd57a8231"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0a995f7cfa19951ba585aa320a1f4ef1a755a38b608adcff2f9ddd156b195b"
 metafile = true
@@ -15039,6 +15172,11 @@ metafile = true
 [[files]]
 file = "mods/laserio.pw.toml"
 hash = "0d7ce37fd00f170025118f0e3fbeef7f4e7147c332b1a5a4e924950eb5e36bc0"
+metafile = true
+
+[[files]]
+file = "mods/ldlib.pw.toml"
+hash = "0583d8e0d60addbef5737e317f2472b74b30a57aef50f8875959c6e79d156c69"
 metafile = true
 
 [[files]]
@@ -15193,7 +15331,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "290b13afab94146d1159d821b73c8c98f5299b4df75fd28e826f9fd409e9bb40"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
@@ -15613,7 +15751,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "a5baf69c2cb3f12339e20cd52b30a5d1eb46c620f65662f8452ac0e8d0bc113a"
+hash = "55fcb8b7508262d7e384f81dc86c0cf0c28ec98194d2dd842208b96291931c0c"
 metafile = true
 
 [[files]]
@@ -15737,6 +15875,55 @@ hash = "a50a4886680efa69714578fd81229ac7321cbc58ea6422368bf55c1a7e08bb19"
 metafile = true
 
 [[files]]
+file = "mods/sable-aabb-fix.pw.toml"
+hash = "3446e0295165ca5d5a2ac6d6b04c6cf08bfe88f7f217074036de2c00d149cb19"
+metafile = true
+
+[[files]]
+file = "mods/sable-explosions-fix.pw.toml"
+hash = "5d9c1da07cfac71f3fdc523b98a1b7324e19ba45eea40507d3f1d808e4767e4b"
+metafile = true
+
+[[files]]
+file = "mods/sable-fix-mod.pw.toml"
+hash = "204e2f1c98a6538a8c6d39b302ba21f20a3443740a53c5ad68f221a638c167c0"
+metafile = true
+
+[[files]]
+file = "mods/sable-pathfinder.pw.toml"
+hash = "bb53384b726692f7c4227355fa0653cbb6aba5bd0bd3ea7c586d395aa4d2d135"
+metafile = true
+
+[[files]]
+file = "mods/sable-scale-neoforge-1.21.1-sable205patch.jar"
+hash = "83a67f2239cc29ef7fa78b5cda5e9bd65ab1efd7b044bca603e52922416782fb"
+
+[[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "bdb86f7611da8c045e82f4aca7cf4bde48a0271b2859c938551ecebb6f94d08d"
+metafile = true
+
+[[files]]
+file = "mods/sable-sure-footing.pw.toml"
+hash = "27baa699ff025d9c84da6019dd2899c2e8f429395b16b0e109d11f535add22b7"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+metafile = true
+
+[[files]]
+file = "mods/sable_beyond.pw.toml"
+hash = "72817b94a481d4a023a4eb7a3007374a5682ae6ffccbf7dcb5142df2639bf553"
+metafile = true
+
+[[files]]
+file = "mods/sablecompat.pw.toml"
+hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
 file = "mods/sawmill.pw.toml"
 hash = "13c76a92b12ce6025af9d59eb19bb48b0606d3e277f6b3455b51f68a60230ac7"
 metafile = true
@@ -15833,7 +16020,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -16082,8 +16269,23 @@ hash = "4e45d6b3ee689b7bf8a0b30eaf8570c6f9140222e6677d82aaf0b7de6dddf4e7"
 metafile = true
 
 [[files]]
+file = "mods/veil.pw.toml"
+hash = "1d05a0bc58ce0df0f4ae530586177dd852cfbfa0e27ed07a8d91009cec22706a"
+metafile = true
+
+[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "a30bd487a41b94bc42ab4572f469fc9997d80131f1ea6f3c95d7ade9514626eb"
+metafile = true
+
+[[files]]
+file = "mods/waterworks.pw.toml"
+hash = "ac4dcb59533ee3418ea286b34881ecb15766ed5839149139b795f7204755d46c"
+metafile = true
+
+[[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
 metafile = true
 
 [[files]]

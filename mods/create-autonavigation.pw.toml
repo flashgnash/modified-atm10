@@ -1,0 +1,13 @@
+name = "Create: Autonavigation"
+filename = "create-autonavigation-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NAbOGbCM/versions/yTUwzUmH/create-autonavigation-0.1.3.jar"
+hash-format = "sha512"
+hash = "0003503ee78fbf0fab253a31af5fc220cd7af450ba018cd16bdc86147618dba644e999f8eb14c5adf88d04c0f634a4f83ac46571e3754383f9037d0d0b6e4bd2"
+
+[update]
+[update.modrinth]
+mod-id = "NAbOGbCM"
+version = "yTUwzUmH"

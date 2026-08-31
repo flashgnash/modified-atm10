@@ -1,0 +1,13 @@
+name = "Create Twistermill (VS / Sable)"
+filename = "twistermill-1.21.1-0.2.0-beta.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I1hpoiHP/versions/Azi0ZfL2/twistermill-1.21.1-0.2.0-beta.3.jar"
+hash-format = "sha512"
+hash = "1d98363bf0d9c30ae4d4e8e806afcba564596b155bb90f644f346be8c3c99ad8cdf0a616a1841f002f346c76315536dd97cb391882e3b81bab9c77f11f6289fa"
+
+[update]
+[update.modrinth]
+mod-id = "I1hpoiHP"
+version = "Azi0ZfL2"

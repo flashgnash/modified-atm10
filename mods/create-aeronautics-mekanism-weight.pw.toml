@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Mekanism Weight"
+filename = "camw-NEOFORGE-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kx8MW8hf/versions/Jc4Phc7f/camw-NEOFORGE-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "9a4e70051e876c50913f9a5f794bf96eb96d14e92ca1273745c0b739720a2db24051d82869d11ac37eb0e319081082fceee9e8b7ef3a3bd62b314785cf783db9"
+
+[update]
+[update.modrinth]
+mod-id = "kx8MW8hf"
+version = "Jc4Phc7f"
