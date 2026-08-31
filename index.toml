@@ -4465,6 +4465,10 @@ file = "config/reliquary-common.toml"
 hash = "3201ba0b1be22a0909fad50d6da90a1e5d0a795cec3eb885bc0c9314130e1b57"
 
 [[files]]
+file = "config/sable_player_ragdoll-server.toml"
+hash = "9051cfac0ce8e56d841081f257c15c64b06edb375d5f4d1d720d9c41639ea805"
+
+[[files]]
 file = "config/sawmill-common.toml"
 hash = "ce6b015ff03278c387114733a543c7fc47bcaa3ce5e76d907b975cab44ae00f5"
 
@@ -15904,16 +15908,6 @@ hash = "bb53384b726692f7c4227355fa0653cbb6aba5bd0bd3ea7c586d395aa4d2d135"
 metafile = true
 
 [[files]]
-file = "mods/sable-ragdoll-corpse.pw.toml"
-hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
-metafile = true
-
-[[files]]
-file = "mods/sable-ragdolls.pw.toml"
-hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
-metafile = true
-
-[[files]]
 file = "mods/sable-scale-neoforge-1.21.1-sable205patch.jar"
 hash = "83a67f2239cc29ef7fa78b5cda5e9bd65ab1efd7b044bca603e52922416782fb"
 
@@ -15940,11 +15934,6 @@ metafile = true
 [[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
-metafile = true
-
-[[files]]
-file = "mods/sableragdoll-patch.pw.toml"
-hash = "459862e1779ab18c1c299b607f32ba52e29c8d5c2517037c394e3da2ff0700b0"
 metafile = true
 
 [[files]]
@@ -16090,11 +16079,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
-metafile = true
-
-[[files]]
-file = "mods/spr-additions.pw.toml"
-hash = "0349a810ab7d45320eb346044898b0882ed2564998b50a844df036f2b66cd5bf"
 metafile = true
 
 [[files]]
