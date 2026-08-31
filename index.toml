@@ -15899,11 +15899,6 @@ hash = "204e2f1c98a6538a8c6d39b302ba21f20a3443740a53c5ad68f221a638c167c0"
 metafile = true
 
 [[files]]
-file = "mods/sable-new-sodium-compat.pw.toml"
-hash = "5f79c4d57361e1548a930ec7b24b5437bf49742e9ae022d248ab0710c963a7a1"
-metafile = true
-
-[[files]]
 file = "mods/sable-pathfinder.pw.toml"
 hash = "bb53384b726692f7c4227355fa0653cbb6aba5bd0bd3ea7c586d395aa4d2d135"
 metafile = true
