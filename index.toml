@@ -13998,11 +13998,6 @@ hash = "0b8a0117ded523876d15e861b537740bd385232185739dbb3f26cd41a3504a18"
 metafile = true
 
 [[files]]
-file = "mods/ars-sable.pw.toml"
-hash = "6f2831389ddba8705056285acea3c092eb2a80f6026ea9692f9b12ff3e1c9e03"
-metafile = true
-
-[[files]]
 file = "mods/ars-technica.pw.toml"
 hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
 metafile = true

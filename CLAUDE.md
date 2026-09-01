@@ -7,10 +7,13 @@ This pack is managed with packwiz-tui, which is on PATH here. Useful commands
 - `packwiz-tui test server` — install + boot this pack's server, verify it reaches "Done", sample TPS over RCON. Fails with log paths on crash.
 - `packwiz-tui test full [--soak 90s]` — the above plus a real headless client (gamescope + portablemc, offline account) that auto-joins, soaks in spectator, samples TPS, and saves screenshots to `.packwiz-tui/last-test/` — read those screenshots to check for visual problems.
 - `packwiz-tui fix-sources` — find CurseForge-API-blocked mods (breaks unattended installs) and swap them to byte-identical Modrinth files. Doubles as an install test.
+- `packwiz-tui convert-sources modrinth|curseforge [slug]` — convert every mod (or one slug) to the given source: modrinth conversions are byte-identical (sha1); curseforge conversions re-add by slug and roll back on failure.
 - `packwiz-tui tag-sides <server-pack.zip>` — set side=client/both on all mods by diffing an official server pack.
 - `packwiz-tui export prism|prism-preinstalled|mrpack|curseforge|server|all` — build importable artifacts into `.packwiz-tui/build/`. The prism zips import into PrismLauncher and self-update from this repo via a packwiz-installer pre-launch hook (preinstalled bundles all mods too).
 - `packwiz-tui install-prism` — write the self-updating instance straight into the local PrismLauncher (creates or refreshes; never touches worlds/options). User restarts Prism to see it.
+- `packwiz-tui server-ip [address]` — get/set the pack's default server address; when set, prism exports/installs get a prefilled servers.dat (existing installs keep their own server list).
 - `packwiz-tui nixos-config` — print a services.minecraft-servers block for the user's nix-minecraft flake, ready to paste into nixos-configuration (glados-style hosting).
+- `packwiz-tui changelog [--from ref --to ref]` — markdown changelog between refs (default: previous tag → HEAD): mod adds/removals diffed from git, config/other changes summarised by the configured agent.
 - `packwiz-tui release [tag]` — export all + publish a GitHub release with gh (defaults to v<pack version>).
 - `packwiz-tui init-workflow` — scaffold a GitHub Actions workflow: every push builds all artifacts (downloadable as workflow artifacts), and a v* tag push publishes them as a release.
 - `packwiz` itself (add/remove/update/refresh) is also on PATH.
