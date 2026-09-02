@@ -4026,7 +4026,7 @@ hash = "d29dcdd89477dd491c55189d79b69abec433f608e1303ef4701f2846fc3d1f08"
 
 [[files]]
 file = "config/hostile_skies-common.toml"
-hash = "877110f278f1e358bf07c684339bc577db6d409d1f4d4400bf75bf110534893c"
+hash = "a4bce8856bdfaec0fb30d4cdff55abf88f97ece7281fae6bf8a5c7183ebbfe1a"
 
 [[files]]
 file = "config/hyperbox-common.toml"
@@ -14217,7 +14217,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -14578,6 +14578,11 @@ metafile = true
 [[files]]
 file = "mods/edivadlib.pw.toml"
 hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b8d106621c33d617578d6e45948cde63399882dc53c8c979a9a20fb8d07ce673"
 metafile = true
 
 [[files]]
@@ -15177,6 +15182,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "b21e4c7a4bbf9d8acadfe5d0e2dc8d250a17740b2516a28a906c30edec0149b0"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "c9a79c8e684a727cfb60a1644a0306a3401375bdac808f4c9ba3f8321a9ff678"
 metafile = true
 
 [[files]]
