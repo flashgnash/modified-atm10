@@ -1,0 +1,24 @@
+#If set false, no backups are being made.
+enabled = true
+#Defines the backup type.
+# - FULL_BACKUPS - always creates full backups
+# - MODIFIED_SINCE_LAST - only saves the files which changed since last (partial) backup
+# - MODIFIED_SINCE_FULL - saves all files which changed after the last full backup
+#MODIFIED_SINCE_FULL: restore = last full + newest partial. Chosen over full
+#backups because glados only has ~15G free disk.
+backupType = "MODIFIED_SINCE_FULL"
+#Should a save-all be forced before backup?
+saveAll = true
+#How often should a full backup be created if only modified files should be saved? (minutes)
+#10080 = weekly
+fullBackupTimer = 10080
+#The max amount of backup files to keep.
+backupsToKeep = 20
+#The time between two backups in minutes
+timer = 120
+#The max size of storage the backup folder. If it takes more storage, old files will be deleted.
+maxDiskSize = "8 GB"
+#Should message be sent when backup is in the making?
+sendMessages = true
+#Create backups, even if nobody is online
+noPlayerBackups = false
