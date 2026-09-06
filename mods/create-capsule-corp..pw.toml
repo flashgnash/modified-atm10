@@ -1,0 +1,13 @@
+name = "Create: Capsule Corp."
+filename = "capsulecorp-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a0Y1QsHj/versions/wptnWuJ1/capsulecorp-0.1.1.jar"
+hash-format = "sha512"
+hash = "0078897010f9a76423e065f26fc60eb48d0a92e4c09151fc4c052edf03af52e63dbc6737380c9df20f50d04209b8d4e8d0c6d9825403fae3053af1156b4fa8ca"
+
+[update]
+[update.modrinth]
+mod-id = "a0Y1QsHj"
+version = "wptnWuJ1"

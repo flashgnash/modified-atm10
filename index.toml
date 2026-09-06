@@ -14364,6 +14364,11 @@ hash = "db7aed530208f0aedf516a6b616b9034941059354e93f75e5e8e1d57381f3312"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "8fa0f7462feaaf9cf6316db8878069424f382129d46b0733d419e9c8760e6f4b"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-discovery.pw.toml"
 hash = "b56a93f81b38b7b40ace56979d2730b2a6e117a2a684e08af91337ea9bed01fa"
 metafile = true
@@ -15664,7 +15669,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
