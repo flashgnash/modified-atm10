@@ -1,0 +1,18 @@
+{
+  "template": "aeronauticsdiscovery:airplane",
+  "min_altitude": 220,
+  "max_altitude": 260,
+  "weight": 3,
+  "initial_velocity": {
+    "linear": [0.0, 0.0, 0.0],
+    "angular": [0.0, 0.0, 0.0],
+    "impulse": false
+  },
+  "dimensions": ["aeronauticsdiscovery:disabled_no_spawn"],
+  "plan": {
+    "goals": [
+      { "type": "aeronauticsdiscovery:straight" },
+      { "type": "aeronauticsdiscovery:altitude", "min_altitude": 170, "max_altitude": 250 }
+    ]
+  }
+}
