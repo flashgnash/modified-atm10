@@ -1,0 +1,13 @@
+name = "Shard's Compat: Voltaic-Sable Compat"
+filename = "shards_voltaic_sable_compat-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UmuEJwMB/versions/iUg07Cep/shards_voltaic_sable_compat-1.1.1.jar"
+hash-format = "sha512"
+hash = "8c7bf28e6f31fdeed88f6a937fb043ff5d82c491063ab101ee20c142a2cbe81515f9f92e046069a2b894ff35f120ddfd6d6d3eb95ed0c448ab3546a2e04c9369"
+
+[update]
+[update.modrinth]
+mod-id = "UmuEJwMB"
+version = "iUg07Cep"

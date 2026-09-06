@@ -15923,7 +15923,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
@@ -15963,6 +15963,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "25bd3df81f1db5736274c1b7db2bc622f221b2c5dfc7e855ff4ebce345aecc30"
+metafile = true
+
+[[files]]
+file = "mods/shards-compat-voltaic-sable-compat.pw.toml"
+hash = "2c29ee98f3393d019df6ed7f275ab190c8b0434285f5c07a2db0660a39bf9bca"
 metafile = true
 
 [[files]]
