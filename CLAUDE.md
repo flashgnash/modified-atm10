@@ -15,7 +15,7 @@ This pack is managed with packwiz-tui, which is on PATH here. Useful commands
 - `packwiz-tui install-prism` — write the self-updating instance straight into the local PrismLauncher (creates or refreshes; never touches worlds/options). User restarts Prism to see it.
 - `packwiz-tui server-ip [address]` — get/set the pack's default server address; when set, prism exports/installs get a prefilled servers.dat (existing installs keep their own server list).
 - `packwiz-tui nixos-config` — print a services.minecraft-servers block for the user's nix-minecraft flake, ready to paste into nixos-configuration (glados-style hosting).
-- `packwiz-tui changelog [--from ref --to ref]` — markdown changelog between refs (default: previous tag → HEAD): mod adds/removals diffed from git, config/other changes summarised by the configured agent.
+- `packwiz-tui changelog [--from ref --to ref]` — markdown changelog between refs (default: previous tag → HEAD): mod adds/removals/updates diffed from git, each with a Modrinth/CurseForge link and version. Purely mechanical — no LLM.
 - `packwiz-tui release [tag]` — export all + publish a GitHub release with gh (defaults to v<pack version>).
 - `packwiz-tui init-workflow` — scaffold a GitHub Actions workflow: every push builds all artifacts (downloadable as workflow artifacts), and a v* tag push publishes them as a release.
 - `packwiz` itself (add/remove/update/refresh) is also on PATH.

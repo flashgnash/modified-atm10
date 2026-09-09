@@ -3,7 +3,9 @@
     "allow": [
       "Bash(packwiz-tui:*)",
       "Bash(packwiz:*)",
-      "Bash(mc-logs:*)"
+      "Bash(mc-logs:*)",
+      "Bash(cd:*)",
+      "AskUserQuestion"
     ]
   }
 }
