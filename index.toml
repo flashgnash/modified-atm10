@@ -15963,6 +15963,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/sable-cleanup.pw.toml"
+hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
+metafile = true
+
+[[files]]
 file = "mods/sable-explosions-fix.pw.toml"
 hash = "5d9c1da07cfac71f3fdc523b98a1b7324e19ba45eea40507d3f1d808e4767e4b"
 metafile = true
