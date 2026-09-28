@@ -209,6 +209,10 @@ file = "config/crashutilities-server.toml"
 hash = "9d3b19e6872c4665c830b5cf434afedf7c1c7787f3cc09bd15dcd878d274c6f8"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "568e033e977ed937bebb65daf3eb4179119b76cd26e7b21207d6fa634c38a859"
+
+[[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "4729ab25e29a25514f8e00c3be6fd4a4712e956a6388d0a1d4a9f8659f205ae7"
 
