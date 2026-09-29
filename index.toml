@@ -14531,11 +14531,6 @@ hash = "d4533ae84de3efc3d9571dd1cec65d91e08e27cf44ad5e7ef224712e78426a70"
 metafile = true
 
 [[files]]
-file = "mods/create-walking-steel.pw.toml"
-hash = "f87236453f8e185b9675ff643482c8dc3720244d14b0d6f196fc55f4afb66e1c"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
