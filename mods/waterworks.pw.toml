@@ -1,0 +1,13 @@
+name = "Waterworks"
+filename = "waterworks-1.2.0-Preview_3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jUEBjdTl/versions/UAkrABpK/waterworks-1.2.0-Preview_3.jar"
+hash-format = "sha512"
+hash = "2999f0b9e72fd38bb73c9c88d47b4e13e194614948fbeda487b656b99d2ab13748b91f38c846a8a3b3077b36ab5822655d1c59638289c86e18151b73de0647da"
+
+[update]
+[update.modrinth]
+mod-id = "jUEBjdTl"
+version = "UAkrABpK"

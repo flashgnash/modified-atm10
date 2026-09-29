@@ -6,6 +6,8 @@ This pack is managed with packwiz-tui, which is on PATH here. Useful commands
 
 - `packwiz-tui test server` — install + boot this pack's server, verify it reaches "Done", sample TPS over RCON. Fails with log paths on crash.
 - `packwiz-tui test full [--soak 90s]` — the above plus a real headless client (gamescope + portablemc, offline account) that auto-joins, soaks in spectator, samples TPS, and saves screenshots to `.packwiz-tui/last-test/` — read those screenshots to check for visual problems.
+- `packwiz-tui search <query> [--source modrinth|curseforge] [--any-version]` — search both mod APIs, filtered to this pack's mc version/loader, with download counts and slugs. Prefer this over curling the APIs — responses are cached on disk.
+- `packwiz-tui mod-info <slug> [--source modrinth|curseforge]` — project details plus the versions installable in this pack, and the exact packwiz command to install a specific one.
 - `packwiz-tui fix-sources` — find CurseForge-API-blocked mods (breaks unattended installs) and swap them to byte-identical Modrinth files. Doubles as an install test.
 - `packwiz-tui convert-sources modrinth|curseforge [slug]` — convert every mod (or one slug) to the given source: modrinth conversions are byte-identical (sha1); curseforge conversions re-add by slug and roll back on failure.
 - `packwiz-tui tag-sides <server-pack.zip>` — set side=client/both on all mods by diffing an official server pack.

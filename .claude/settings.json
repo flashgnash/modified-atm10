@@ -5,7 +5,18 @@
       "Bash(packwiz:*)",
       "Bash(mc-logs:*)",
       "Bash(cd:*)",
-      "AskUserQuestion"
+      "AskUserQuestion",
+      "Bash(curl:*)",
+      "Bash(git:*)",
+      "Bash(grep:*)",
+      "Bash(ssh:*)",
+      "Bash(q():*)",
+      "Write",
+      "Bash(python3:*)",
+      "Bash(command:*)",
+      "Bash(nix:*)",
+      "Bash(cp:*)",
+      "Edit"
     ]
   }
 }

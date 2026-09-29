@@ -1,0 +1,13 @@
+name = "Hot Bath"
+filename = "hotbath-1.21.1-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e3Wt9EEw/versions/slTQJU99/hotbath-1.21.1-4.1.0.jar"
+hash-format = "sha512"
+hash = "bfe3218ab459c626fb1dd95a064d2651d4223b2e3a3de26dec159fbcb99b76d072f44a3f35a67ec334c627d846e584a32aca03abefc94aebfbd0053f97887626"
+
+[update]
+[update.modrinth]
+mod-id = "e3Wt9EEw"
+version = "slTQJU99"

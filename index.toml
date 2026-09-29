@@ -4033,6 +4033,10 @@ file = "config/hostile_skies-common.toml"
 hash = "a4bce8856bdfaec0fb30d4cdff55abf88f97ece7281fae6bf8a5c7183ebbfe1a"
 
 [[files]]
+file = "config/hotbath-common.toml"
+hash = "aacbf3031b20b52d614a7d67d18f472c95e387df0cdd5bd8ac80076ee2410457"
+
+[[files]]
 file = "config/hyperbox-common.toml"
 hash = "44d1eb2e27746e8b73cd61bb527de393bc7fc54457919472a811c09c893c6ee0"
 
@@ -4563,6 +4567,10 @@ hash = "81e54e0f4f939ab77bc6c05f977735406f3fc8bd3930794e721b40e7da9d0b1e"
 [[files]]
 file = "config/utilitarian-common.toml"
 hash = "376fc98563b324a49dc5ef07b441ac24b0461ad8f6402c4b8b9029e8e36f77c2"
+
+[[files]]
+file = "config/waterworks-server.toml"
+hash = "bf1703f6ad2751523b729cc61a0487aac9bfddafb7657ade5ca51c2dac65e9db"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -14439,7 +14447,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-avionics.pw.toml"
-hash = "09c4a6ed0968780cedfb90be7d72d9e5b7fe179b3fc289f1427dbba0a5ea90fb"
+hash = "02d8e1b53cf40eda776d245a2c946f0f246a9d789af2f4f00f264a48b42d7236"
 metafile = true
 
 [[files]]
@@ -14520,6 +14528,11 @@ metafile = true
 [[files]]
 file = "mods/create-the-air-war.pw.toml"
 hash = "d4533ae84de3efc3d9571dd1cec65d91e08e27cf44ad5e7ef224712e78426a70"
+metafile = true
+
+[[files]]
+file = "mods/create-walking-steel.pw.toml"
+hash = "f87236453f8e185b9675ff643482c8dc3720244d14b0d6f196fc55f4afb66e1c"
 metafile = true
 
 [[files]]
@@ -15012,6 +15025,11 @@ hash = "d8d964dfe772806533fde01d62bcc029e2232fe325d9097865a7397e5f598cf4"
 metafile = true
 
 [[files]]
+file = "mods/hot-bath.pw.toml"
+hash = "0ae228169263c902455c1a37925ed809d7c4f1ffad1bf10d82840993010e6469"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
@@ -15269,6 +15287,11 @@ metafile = true
 [[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "c9a79c8e684a727cfb60a1644a0306a3401375bdac808f4c9ba3f8321a9ff678"
+metafile = true
+
+[[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "4836089614716479f11fe34cced0f862d185f9efffc1297167c4faa74afb8dc0"
 metafile = true
 
 [[files]]
@@ -16065,6 +16088,11 @@ hash = "9478f11cf76a0b80402d0ca90dcf275320e5ec91a87382c8f03ce6fc7de18dc6"
 metafile = true
 
 [[files]]
+file = "mods/showercore.pw.toml"
+hash = "ece5f39dac60d6f3c843b8ab3358360b5896b958418ba9bf4000ef42f5f2b944"
+metafile = true
+
+[[files]]
 file = "mods/shrink_.pw.toml"
 hash = "f8cff4c66e5e30ef5001f0f56ff1c0511d96c2be42f79cbd68bda7c20874f93d"
 metafile = true
@@ -16392,6 +16420,11 @@ metafile = true
 [[files]]
 file = "mods/vs-hose-connectors.pw.toml"
 hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
+metafile = true
+
+[[files]]
+file = "mods/waterworks.pw.toml"
+hash = "a25eaef6ed0e316394e45e44e228c040774a797e71d8c663572524fbfffa4608"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "ShowerCore"
+filename = "showercore-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x4DvxFlV/versions/AS6icsnj/showercore-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "f2f6ae1d2515ded798b318102c9026abad0f5ef874d0832875356c0ac7bdeac2eed1d5b3ed79ab0a34d70d8f61f18ecc37fe2b22bbd4d4a9c2647e6d41d2bf93"
+
+[update]
+[update.modrinth]
+mod-id = "x4DvxFlV"
+version = "AS6icsnj"
